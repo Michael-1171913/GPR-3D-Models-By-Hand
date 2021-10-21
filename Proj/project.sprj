@@ -12,7 +12,7 @@
 			<rendertexture />
 			<items>
 				<item name="shape" type="vertexbuffer">
-					<buffer>verts</buffer>
+					<buffer>cubeVerts</buffer>
 					<topology>TriangleList</topology>
 				</item>
 			</items>
@@ -26,13 +26,14 @@
 	</pipeline>
 	<objects>
 		<object type="buffer" name="verts" size="96" format="vec3;vec3;vec2;" pausedpreview="false" />
+		<object type="buffer" name="cubeVerts" size="192" format="vec3;vec3;vec2;" pausedpreview="false" />
 	</objects>
 	<cameras />
 	<settings>
 		<entry type="camera" fp="false">
-			<distance>2</distance>
-			<pitch>31</pitch>
-			<yaw>328</yaw>
+			<distance>4</distance>
+			<pitch>5</pitch>
+			<yaw>192</yaw>
 			<roll>360</roll>
 		</entry>
 		<entry type="clearcolor" r="0" g="0" b="0" a="0" />

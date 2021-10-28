@@ -1,2 +1,3 @@
 ﻿  vertexGenerator.cpp
-  vertexGenerator.vcxproj -> C:\Users\michael.leonard\Desktop\3D Models By Hand\Scripts\vertexGenerator\Debug\vertexGenerator.exe
+C:\Users\Michael\Desktop\GPR-3D-Models-By-Hand\Scripts\vertexGenerator\vertexGenerator\vertexGenerator.cpp(113,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  vertexGenerator.vcxproj -> C:\Users\Michael\Desktop\GPR-3D-Models-By-Hand\Scripts\vertexGenerator\Debug\vertexGenerator.exe
